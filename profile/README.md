@@ -1,7 +1,6 @@
 # 🏦 Northwest Bank IT Services
 
 <div align="center">
-  <img src="https://nw.bank/wp-content/uploads/2021/09/northwest-bank-logo.svg" alt="Northwest Bank" width="400"/>
   
   ### Building Digital Banking Solutions for Iowa and Nebraska Communities
   
