@@ -61,24 +61,8 @@ We maintain the highest standards of security and compliance, protecting our cus
 
 ## 📍 Locations We Serve
 
-<details>
-<summary>Iowa Locations</summary>
-
-- Ankeny
-- West Des Moines
-- Fort Dodge
-- Sioux City
-- And many more communities across Iowa
-
-</details>
-
-<details>
-<summary>Nebraska Locations</summary>
-
-- Omaha
-- Additional Nebraska communities
-
-</details>
+Northwest Bank proudly serves communities across Iowa and Nebraska.  
+[**Find a location near you →**](https://nw.bank/locations)
 
 ## 🔗 Connect With Us
 
@@ -101,6 +85,6 @@ For security concerns or responsible disclosure:
 **Building the Future of Banking Technology**  
 *Serving Iowa and Nebraska Communities*
 
-© 2024 Northwest Bank. All Rights Reserved.
+© 2025 Northwest Bank. All Rights Reserved.
 
 </div> 
