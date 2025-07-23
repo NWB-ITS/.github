@@ -49,10 +49,6 @@ Automated rate extraction service for certificate of deposit products
 - **Purpose**: Automates FHLB rate retrieval and distribution
 - **Status**: Production Ready
 
-### 🔒 Coming Soon
-- **Digital Wallet Integration**: Enhanced mobile payment solutions
-- **Open Banking APIs**: Secure third-party integrations
-- **AI-Powered Services**: Intelligent banking assistants
 
 ## 🤝 Our Values
 
@@ -62,8 +58,6 @@ Just as Northwest Bank is committed to community involvement, our technology tea
 ### 🔐 Security & Trust
 We maintain the highest standards of security and compliance, protecting our customers' financial data with enterprise-grade solutions.
 
-### 🚀 Innovation
-From our 1.50% cash back debit program to cutting-edge digital banking features, we're always pushing boundaries to better serve our customers.
 
 ## 📍 Locations We Serve
 
